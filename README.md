@@ -17,7 +17,7 @@ where:
 
 ## Purpose
 
-This repository compares different weighting strategies for fitting EIS spectra of super duplex stainless steel using a 1RQ equivalent circuit model.
+This repository compares different weighting strategies for fitting EIS spectra of standard super duplex stainless steel 2507 using a 1RQ equivalent circuit model.
 
 The workflow includes:
 
